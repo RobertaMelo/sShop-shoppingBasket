@@ -24,7 +24,7 @@ $ npm install
 $ npm start
 ```
 
-abra o link [http://localhost:8080](http://localhost:8080) no seu navegador.
+Open [http://localhost:8080](http://localhost:8080).
 
 
 ## Dependencies
