@@ -8,7 +8,7 @@ A projetc basic using AngularJS, Webpack, sAss, JS e UI-Router.
 * [Webpack](https://webpack.js.org/)
 * [UI-Router](https://ui-router.github.io/)
 
-### How initialize
+### How to initialize
 
 ```bash
 # Clone
