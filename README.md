@@ -1,6 +1,6 @@
-# ui-router-webpack
+# Project
 
-Um projeto (esqueleto) simples usando AngularJS, Webpack e UI-Router.
+A projetc basic using AngularJS, Webpack, sAss, JS e UI-Router.
 
 ## Links
 
@@ -8,44 +8,41 @@ Um projeto (esqueleto) simples usando AngularJS, Webpack e UI-Router.
 * [Webpack](https://webpack.js.org/)
 * [UI-Router](https://ui-router.github.io/)
 
-### Como Inicializar
+### How initialize
 
 ```bash
-# clonar o repositorio
-$ git clone https://github.com/yasserveleda/ui-router-webpack.git meu-projeto
+# Clone
+$ git clone https://github.com/RobertaMelo/sShop-shoppingBasket
 
-# entrar na raiz do projeto
-$ cd meu-projeto
+# Enter the root of the project
+$ cd sShop-shoppingBasket
 
-# instalar as dependencias com npm
+# Install dependencies
 $ npm install
 
-# inicializar o servidor
+# Initialize
 $ npm start
 ```
 
 abra o link [http://localhost:8080](http://localhost:8080) no seu navegador.
 
 
-## Dependencias
+## Dependencies
 
-Voce precisara instalar ou devera ter instalado em sua maquina:
+You need:
 * `node` [https://nodejs.org](https://nodejs.org)
 * `npm`  [https://www.npmjs.com](https://www.npmjs.com)
 
 
-## Desenvolvimento
+## Development
 
 ### Build
 
-* executar: `npm run build`
+* run: `npm run build`
 
 ## Testes
 
-#### 1. Teste Unitario
+#### 1. Test
 
-* executar: `npm test`
+* run: `npm test`
 
-## Referencia
-
-https://github.com/preboot/angularjs-webpack# sShop-shoppingBasket
